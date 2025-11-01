@@ -1,0 +1,1 @@
+print('Route handler initialized')
